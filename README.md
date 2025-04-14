@@ -61,4 +61,4 @@ This project is licensed under the same terms as the original repository by Nolk
 
 ## Acknowledgments
 - Original tool by [Nolkeg](https://github.com/Nolkeg/AdjustTHWannayuk)
-- Adapted for Unity 6+ by [Your Name]
+- Adapted for Unity 6+ by waiikoku
