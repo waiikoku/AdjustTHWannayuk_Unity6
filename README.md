@@ -1,5 +1,7 @@
 # AdjustWannayuk for Unity 6+
 
+![Alt text](images/Example_ThaiFont.png)
+
 ## Description
 AdjustWannayuk is a Unity Editor tool specifically designed for Thai font adjustments in TextMeshPro. This fork addresses compatibility issues with Unity 6, which introduced changes to the underlying text handling system.
 
